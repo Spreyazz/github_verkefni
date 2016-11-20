@@ -30,3 +30,4 @@
 *	Verkefnaskil á Innu, setjið tengla í 'Athugasemdir' á:  
 	*	Github reiningin þinn 
 	*	Hópverkefnið (master). 
+Kisi
